@@ -6,7 +6,7 @@ A TypeScript implementation of the exercises found at the end of each chapter in
 First `yarn install`
 
 #### VSCode
-Open `mini-duck-simulator.ts` and start the debuggerl
+Open `mini-duck-simulator.ts` and start the debugger
 
 #### Terminal
 Open a terminal window in the `/src` directory and run `ts-node mini-duck-simulator`.
