@@ -7,7 +7,7 @@ export class Decoy extends Duck {
     flyMethod = new SitsMagestically;
 
     display(): void {
-        console.log('Decoy');
+        console.log('-Decoy-');
         this.performQuack();
         this.performFly();
         this.swim();

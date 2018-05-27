@@ -7,7 +7,7 @@ export class Mallard extends Duck {
     flyMethod = new FlyWithWings;
 
     display(): void {
-        console.log('Mallard');
+        console.log('-Mallard-');
         this.performQuack();
         this.performFly();
         this.swim();

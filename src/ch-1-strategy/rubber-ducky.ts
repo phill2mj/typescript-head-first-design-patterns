@@ -7,7 +7,7 @@ export class RubberDucky extends Duck {
     flyMethod = new SitsMagestically;
 
     display(): void {
-        console.log('Rubber Ducky');
+        console.log('-Rubber Ducky-');
         this.performQuack();
         this.performFly();
         this.swim();
