@@ -1,16 +1,17 @@
-# typescript-head-first-design-patterns
+# Design Patterns in TypeScript
 A TypeScript implementation of the exercises found at the end of each chapter in the
-Head First Design Patterns book
+Head First Design Patterns book. I'll be updating periodically. If there is a UML that
+means I'm done with that chapter.
 
-## Instructions
+## Getting Started
 
-First `yarn install`
+`yarn install`
 
-#### VSCode
+#### Run inside VSCode
 Open `index.ts` in the chapter you want to run, and start the debugger. Breakpoints should
 work as expected
 
-#### Terminal
+#### Run in a Terminal
 Open a terminal window in the directory of the chapter you want to run
 and invoke `ts-node index.ts`.
 You may have to install ts-node globally for this to work.
